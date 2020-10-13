@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF8"?>
+<direcciones>
+    <edificios>
+        <edificio1>
+            <direccion>C/ Qwerty nº1</direccion>
+            <numplantas>3 plantas
+                <planta1>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta1>
+
+                <planta2>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta2>
+
+                <planta3>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta3>
+            </numplantas>
+        </edificio1>
+
+        <edificio2>
+            <direccion>C/ Qwerty nº1</direccion>
+            <numplantas>3 plantas
+                <planta1>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta1>
+
+                <planta2>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta2>
+
+                <planta3>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta3>
+            </numplantas>
+        </edificio2>
+
+        <edificio3>
+            <direccion>C/ Qwerty nº1</direccion>
+            <numplantas>3 plantas
+                <planta1>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta1>
+
+                <planta2>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta2>
+
+                <planta3>
+                    <num>1</num>
+                    <m2>100 m2</m2>
+                    <empleados>
+                        <empleado1>
+                            <puesto>1</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado1>
+
+                        <empleado2>
+                            <puesto>2</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado2>
+
+                        <empleado3>
+                            <puesto>3</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado3>
+
+                        <empleado4>
+                            <puesto>4</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado4>
+
+                        <empleado5>
+                            <puesto>5</puesto>
+                            <nom_y_apellid>German Gallardo</nom_y_apellid>
+                            <ext_telf>123</ext_telf>
+                        </empleado5>
+                    </empleados>
+                </planta3>
+            </numplantas>
+        </edificio3>
+
+    </edificios>
+</direcciones>

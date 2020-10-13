@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <torneo>Torneo Alixar
+        <inicio>7 de octubre a las 18h</inicio>
+            <partido1>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido1>
+
+            <partido2>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido2>
+
+            <partido3>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido3>
+
+            <partido4>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido4>
+
+            <partido5>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido5>
+
+            <partido6>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido6>
+
+            <partido7>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido7>
+
+            <partido8>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido8>
+
+            <partido9>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido9>
+
+            <partido10>
+                <fecha>7 de octubre</fecha>
+                <jugador1>
+                    <nombre>Pepe</nombre>
+                    <apellidos>Rodriguez Sanchez</apellidos>
+                    <altura>180 cm</altura>
+                    <peso>75 kg</peso>   
+                </jugador1>
+                <jugador2>
+                    <nombre>Roberto</nombre>
+                    <apellidos>Garcia Lopez</apellidos>
+                    <altura>185 cm</altura>
+                    <peso>80 kg</peso>   
+                </jugador2>
+                <sets>
+                    <primero>2-3</primero>
+                    <segundo>5-5</segundo>
+                    <tercero>7-5</tercero>
+                </sets>
+            </partido10>
+
+
+        <final>7 de octubre a las 21h</final>
+    </torneo>

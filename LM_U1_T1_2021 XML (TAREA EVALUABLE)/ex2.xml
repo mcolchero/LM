@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF8"?>
+<cluster>
+    <nodos>
+        <nodo1>
+            <nombre>n1</nombre>
+            <ip>192.168.1.2</ip>
+            <maquinas>
+                <maquina1>
+                    <nombre>maquina1</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.2</ip>
+                        <mac>q1234</mac>
+                    </interfaces>
+                </maquina1>
+
+                <maquina2>
+                    <nombre>maquina2</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>w2345</mac>
+                    </interfaces>
+                </maquina2>
+
+                <maquina3>
+                    <nombre>maquina3</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>e1234</mac>
+                    </interfaces>
+                </maquina3>
+
+            </maquinas>
+        </nodo1>
+
+        <nodo2>
+            <nombre>n1</nombre>
+            <ip>192.168.1.2</ip>
+            <maquinas>
+                <maquina1>
+                    <nombre>maquina1</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.2</ip>
+                        <mac>q1234</mac>
+                    </interfaces>
+                </maquina1>
+
+                <maquina2>
+                    <nombre>maquina2</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>w2345</mac>
+                    </interfaces>
+                </maquina2>
+
+                <maquina3>
+                    <nombre>maquina3</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>e1234</mac>
+                    </interfaces>
+                </maquina3>
+
+            </maquinas>
+        </nodo2>
+
+        <nodo3>
+            <nombre>n1</nombre>
+            <ip>192.168.1.2</ip>
+            <maquinas>
+                <maquina1>
+                    <nombre>maquina1</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.2</ip>
+                        <mac>q1234</mac>
+                    </interfaces>
+                </maquina1>
+
+                <maquina2>
+                    <nombre>maquina2</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>w2345</mac>
+                    </interfaces>
+                </maquina2>
+
+                <maquina3>
+                    <nombre>maquina3</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>e1234</mac>
+                    </interfaces>
+                </maquina3>
+
+            </maquinas>
+        </nodo3>
+
+        <nodo4>
+            <nombre>n1</nombre>
+            <ip>192.168.1.2</ip>
+            <maquinas>
+                <maquina1>
+                    <nombre>maquina1</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.2</ip>
+                        <mac>q1234</mac>
+                    </interfaces>
+                </maquina1>
+
+                <maquina2>
+                    <nombre>maquina2</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>w2345</mac>
+                    </interfaces>
+                </maquina2>
+
+                <maquina3>
+                    <nombre>maquina3</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <ip>192.168.2.3</ip>
+                        <mac>e1234</mac>
+                    </interfaces>
+                </maquina3>
+
+            </maquinas>
+        </nodo4>
+
+        <nodo5>
+            <nombre>n1</nombre>
+            <ip>192.168.1.2</ip>
+            <maquinas>
+                <maquina1>
+                    <nombre>maquina1</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <i1>
+                            <ip>192.168.2.2</ip>
+                            <mac>q1234</mac>
+                        </i1>
+
+                        <i2>
+                            <ip>192.168.2.4</ip>
+                            <mac>q1264</mac>
+                        </i2>
+
+                    </interfaces>
+                </maquina1>
+
+                <maquina2>
+                    <nombre>maquina2</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <i1>
+                            <ip>192.168.2.2</ip>
+                            <mac>q1234</mac>
+                        </i1>
+
+                        <i2>
+                            <ip>192.168.2.4</ip>
+                            <mac>q1264</mac>
+                        </i2>
+                        
+                    </interfaces>
+                </maquina2>
+
+                <maquina3>
+                    <nombre>maquina3</nombre>
+                    <so>w10</so>
+                    <interfaces>
+                        <i1>
+                            <ip>192.168.2.9</ip>
+                            <mac>q1234</mac>
+                        </i1>
+
+                        <i2>
+                            <ip>192.168.2.37</ip>
+                            <mac>q4264</mac>
+                        </i2>
+                        
+                    </interfaces>
+                </maquina3>
+            </maquinas>
+        </nodo5>
+
+    </nodos>
+</cluster>
