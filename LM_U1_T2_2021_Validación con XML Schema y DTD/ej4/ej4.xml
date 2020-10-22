@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<shiporder orderid="123" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ej4.xsd">
+    <orderperson>1</orderperson>
+    <shipto>
+        <name>Daniel</name>
+        <address>C/ Calle nº1</address>
+        <city>Sevilla</city>
+        <country>España</country>
+    </shipto>
+    <item>
+        <tittle>objeto1</tittle>
+        <note></note>
+        <quantity>10</quantity>
+        <price>23.50</price>
+    </item>
+    <item>
+        <tittle>objeto2</tittle>
+        <note>AAAAAAA</note>
+        <quantity>15</quantity>
+        <price>36.99</price>
+    </item>
+</shiporder>

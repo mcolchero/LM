@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Libro SYSTEM "ej2.dtd">
+
+<Libro catalogo="primer">
+    <Titulo>Pepito</Titulo>
+    <Seccion>Terror</Seccion>
+    <Susbseccion>Thriller</Susbseccion>
+    <Contenido>
+        <Capitulo materia="XML">
+            Capitulo 1
+            <Tema>
+                GG
+            </Tema>
+        </Capitulo>
+        <Capitulo materia="XHTML">
+            Capitulo 2
+            <Tema>
+                HH
+            </Tema>
+        </Capitulo>        
+    </Contenido>
+    <Copyright>
+        AAA
+    </Copyright>
+
+</Libro>
