@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+
+tbody, thead, td, tr, th {
+    border: 1px solid black;
+}
+
+
+.titulo {
+    background-color: black;
+    color: white;
+    
+}
+
+.amarillo {
+    background-color: rgb(240, 240, 126);
+}
+
+.carne {
+    background-color: rgb(231, 171, 114);
+}
+
+.azul {
+    background-color: rgb(161, 111, 207);
+}
